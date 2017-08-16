@@ -1,2 +1,2 @@
 # Experiment
-Experiments with CS
+Zdrojové súbory experimentu
